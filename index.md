@@ -1,2 +1,2 @@
 pages test  
-[Myprpject](./sample/index.html)  
+[Myprpject](./sample-page/index.html)  
